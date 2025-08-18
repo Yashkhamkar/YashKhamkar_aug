@@ -14,8 +14,6 @@ async def lifespan(app: FastAPI):
 
 app = FastAPI(lifespan=lifespan)
 
-
-
 @app.get("/ping")
 def ping():
     with engine.connect() as conn:
