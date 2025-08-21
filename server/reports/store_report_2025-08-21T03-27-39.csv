@@ -1,0 +1,6 @@
+store_id,uptime_last_hour,downtime_last_hour,uptime_last_day,downtime_last_day,uptime_last_week,downtime_last_week
+f6e4d870-a273-49cf-be4d-1bf529e26ff3,60,0,3,2,21,14
+7fa112c6-fd3a-4ff6-aadb-4b55f2e74048,60,0,3,2,21,14
+273c2570-da54-4526-ab33-175e4d7a1609,60,0,3,2,21,14
+bad3c0e6-ad67-40b4-aca8-ce1046b25d68,60,0,3,2,21,14
+0df89218-fde7-4fc6-83da-1c2fc7b480a0,60,0,3,2,21,14
